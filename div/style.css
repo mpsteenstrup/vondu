@@ -1,0 +1,44 @@
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+a {
+  padding: 8px;
+  color: white;
+}
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0;
+    color: white;
+    font-size: 10pt;
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+iframe{
+        width:560px;
+        height:315px;
+        border: 10px solid #fff;
+        margin: 40px;}
