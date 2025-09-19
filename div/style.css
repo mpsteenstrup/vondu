@@ -5,6 +5,7 @@
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 1000;
 }
 
 .navbar a {
@@ -36,6 +37,9 @@ body{
 
 .center {
   text-align: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+
 }
 
 iframe{
